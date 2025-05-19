@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-http-template
+module github.com/ekkinox/yokai-elastic
 
 go 1.24
 
